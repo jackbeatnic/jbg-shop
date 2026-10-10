@@ -6,3 +6,8 @@ Not the public gallery (`jackbeatnic.github.io`) and not mint assets (`jb-nft-as
 Presentation thumbs live in `jbg-present`.
 
 Skeleton only — no live listings here yet.
+
+## Rights
+
+Proprietary — Jack Beatnic. All rights reserved. Not open source. Not public domain.
+Machine-assisted files do not place the works, the selection, or the commercial design in the public domain.
